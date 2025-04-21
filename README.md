@@ -71,7 +71,7 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 
 
 ## Output:
-![Screenshot 2025-04-16 092558](https://github.com/user-attachments/assets/dccc3c97-aefc-435f-b0b3-f4acf0719503)
+![exp 7 ss](https://github.com/user-attachments/assets/b510a0db-4028-4924-af87-cdaac256495e)
 
 
 
